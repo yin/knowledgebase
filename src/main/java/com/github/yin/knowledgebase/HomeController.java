@@ -1,4 +1,4 @@
-package com.github.yin;
+package com.github.yin.knowledgebase;
 
 import java.text.DateFormat;
 import java.util.Date;

@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.github.yin">
+	<logger name="com.github.yin.knowledgebase">
 		<level value="info" />
 	</logger>
 	
